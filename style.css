@@ -397,7 +397,7 @@ button:focus {
 /*--------------------*/
 
 
-#mu-about {
+#mu-about, #mu-testimonials {
 	background-color: #fff;
 	display: inline;
 	float: left;
