@@ -22,10 +22,10 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "contact@markups.io";
-
+        $recipient = "jasonh@specialolympicsontario.com";
+        // $recipient = "pabou061@uottawa.ca";
         // Set the email subject.
-        $subject = "New contact from $name";
+        $subject = "Indulge - Contact from $name";
 
         // Build the email content.
         $email_content = "Name: $name\n";
