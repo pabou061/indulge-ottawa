@@ -784,7 +784,23 @@ button:focus {
 	-o-transition: all 0.5s;
 	transition: all 0.5s;
 }
+/*--------------------*/
+/* VENUE */
+/*--------------------*/
 
+
+
+#mu-picture {
+	background-image: url("assets/images/banner.jpg");
+	background-attachment: fixed;
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	display: inline;
+	float: left;
+	width: 100%;
+	padding:10%;
+}
 
 /*--------------------*/
 /* VENUE */
