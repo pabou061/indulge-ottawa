@@ -464,11 +464,13 @@ button:focus {
 	left: 0; 
 	width: 100%; 
 	height: 100%;
+
 }
 
 #mu-video {
-	background-image: url("assets/images/main2.png");
+	/*background-image: url("assets/images/main2.png");*/
 	background-attachment: fixed;
+
 	background-position: center left;
 	-webkit-background-size: cover;
 	background-size: cover;
