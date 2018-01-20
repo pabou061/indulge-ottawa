@@ -1000,7 +1000,7 @@ button:focus {
 
 #mu-register {
 	background-image: url("assets/images/main3.png");
-	background-position: center center;
+	background-position: left center;
 	background-size: cover;
 	background-attachment: fixed;
 	display: inline;
