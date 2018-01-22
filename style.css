@@ -57,11 +57,23 @@ ul li {
 
 a { 
 	text-decoration: none;
-	color: #ffffff;  
+	color: #000000;
 }
 
 .link{
 	text-decoration: underline;	
+	color: #ffffff;  
+}
+
+.faq{
+	text-decoration: underline;	
+	color: #a01d53;  
+}
+
+.faq:hover{
+	outline: none;
+	text-decoration: none;
+	color: #a01d53; 
 }
 
 a:hover,
